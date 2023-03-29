@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home /> should render the component an header title 1`] = `
+<div>
+  <h1
+    class="py-4 text-5xl text-white font-serif"
+  >
+    Search Weather
+  </h1>
+  <div
+    class="form"
+  >
+    <form>
+      <input
+        class="px-4 py-3 rounded-sm mr-2"
+        placeholder="Enter city name"
+        type="text"
+      />
+      <button
+        class="px-4 py-3 bg-purple-500 text-white rounded-sm"
+        type="submit"
+      >
+        Search
+      </button>
+    </form>
+  </div>
+</div>
+`;
